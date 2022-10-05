@@ -3,3 +3,9 @@
 ##Dog
 
 ## Hund
+
+Katze
+
+Hamster
+
+Wald
